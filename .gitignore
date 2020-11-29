@@ -3,3 +3,5 @@ _v_recycle_bin/
 *.swp
 *.DS_Store
 *.log
+.idea
+*.~vsd
