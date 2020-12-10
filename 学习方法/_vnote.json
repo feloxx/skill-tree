@@ -1,18 +1,15 @@
 {
-    "created_time": "2020-11-15T02:38:33Z",
+    "created_time": "2020-12-03T09:46:38Z",
     "files": [
         {
             "attachment_folder": "",
-            "attachments": [
-            ],
-            "created_time": "2020-11-15T02:38:38Z",
-            "modified_time": "2020-11-15T02:38:52Z",
+            "attachments": [],
+            "created_time": "2020-12-03T09:46:38Z",
+            "modified_time": "2020-12-03T09:46:38Z",
             "name": "README.md",
-            "tags": [
-            ]
+            "tags": []
         }
     ],
-    "sub_directories": [
-    ],
+    "sub_directories": [],
     "version": "1"
 }

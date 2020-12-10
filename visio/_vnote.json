@@ -6,7 +6,7 @@
             "attachments": [],
             "created_time": "2020-12-03T09:46:38Z",
             "modified_time": "2020-12-03T09:46:38Z",
-            "name": "README.md",
+            "name": "基础相关v1.0.vsd",
             "tags": []
         },
         {
@@ -14,35 +14,18 @@
             "attachments": [],
             "created_time": "2020-12-03T09:46:38Z",
             "modified_time": "2020-12-03T09:46:38Z",
-            "name": "vnote-format",
+            "name": "技能树v1.0.vsd",
+            "tags": []
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [],
+            "created_time": "2020-12-03T09:46:38Z",
+            "modified_time": "2020-12-03T09:46:38Z",
+            "name": "语言相关-java-v1.0.vsd",
             "tags": []
         }
     ],
-    "sub_directories": [
-        {
-            "name": "java"
-        },
-        {
-            "name": "visio"
-        },
-        {
-            "name": "介绍"
-        },
-        {
-            "name": "基础相关"
-        },
-        {
-            "name": "学习方法"
-        },
-        {
-            "name": "开发相关"
-        },
-        {
-            "name": "技能树"
-        },
-        {
-            "name": "语言相关"
-        }
-    ],
+    "sub_directories": [],
     "version": "1"
 }
