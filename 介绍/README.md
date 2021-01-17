@@ -1,7 +1,7 @@
 # README
 
 - [返回首页](../README.md)
-- [查看技能树](../技能树/技能树v1.0.md)
+- [查看技能树](../技能树/README.md)
 - [查看学习方法](../学习方法/README.md)
 
 ---
@@ -91,5 +91,5 @@ c/c++系的 lex&yacc，java系的JavaCC和antlr，还有我之前用scala自带s
 ---
 
 - [返回首页](../README.md)
-- [查看技能树](../技能树/技能树v1.0.md)
+- [查看技能树](../技能树/README.md)
 - [查看学习方法](../学习方法/README.md)
