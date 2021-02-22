@@ -2,7 +2,7 @@
 
 ## 基础的基础
 
-![](_v_images/26e95c08.png)
+![](_v_images/base.png)
 
 * 基础的基础
     * 数学基础
