@@ -232,18 +232,22 @@
 ## java 常用框架
 
 * 7 java 常用框架
-  * 7 maven
-  * 7 sprint
-  * 7 mybatis/ibatis
-  * 7 netty
-  * 7 tomcat
+  * 7-1 maven
+  * 7-2 sprint
+  * 7-3 mybatis/ibatis
+  * 7-4 netty
+  * 7-5 tomcat
 
 ---
 
 参考
 
 > java 核心技术 卷1 卷2
+> 
 > java8 实战
+> 
 > java8 函数式编程
+> 
 > head first java
+> 
 > https://github.com/Snailclimb/JavaGuide
