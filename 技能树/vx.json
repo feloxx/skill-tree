@@ -1,0 +1,28 @@
+{
+    "created_time": "2021-04-24T15:29:34Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2021-04-24T15:29:34Z",
+            "id": "0",
+            "modified_time": "2021-04-24T15:29:34Z",
+            "name": "README.md",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "基础"
+        },
+        {
+            "name": "我的专业域"
+        },
+        {
+            "name": "语言与开发"
+        }
+    ],
+    "id": "0",
+    "modified_time": "2021-04-24T15:29:34Z",
+    "version": "1"
+}
