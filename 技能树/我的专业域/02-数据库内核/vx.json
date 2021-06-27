@@ -1,0 +1,28 @@
+{
+    "created_time": "2021-06-27T15:22:56Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2021-06-27T15:23:43Z",
+            "id": "0",
+            "modified_time": "2021-06-27T15:46:56Z",
+            "name": "国外大学经典课程.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-06-27T15:48:17Z",
+            "id": "0",
+            "modified_time": "2021-06-27T15:48:51Z",
+            "name": "学习书籍.md",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+    ],
+    "id": "0",
+    "modified_time": "2021-06-27T15:22:56Z",
+    "version": "1"
+}
